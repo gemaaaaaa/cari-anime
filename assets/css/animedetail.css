@@ -1,11 +1,11 @@
 body {
-    background: #D3CCE3;
-    background: -webkit-linear-gradient(to left, #E9E4F0, #D3CCE3);
-    background: linear-gradient(to left, #E9E4F0, #D3CCE3);
+    background: #ECE9E6;
+    background: -webkit-linear-gradient(to bottom, #FFFFFF, #ECE9E6);
+    background: linear-gradient(to bottom, #FFFFFF, #ECE9E6);
 }
 
 nav {
-    background-color: #b5b5b5;
+    background-color: #e3e3e3;
     display: flex;
     justify-content: space-between;
     font-family: 'Montserrat', sans-serif;
