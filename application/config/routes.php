@@ -52,3 +52,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'C_Index';
 $route['404_override'] = 'C_404';
 $route['translate_uri_dashes'] = FALSE;
+
+$route['anime/(:num)'] = 'C_AnimeDetail/index/$1';
