@@ -7,9 +7,9 @@
 
     <link rel="stylesheet" href="<?= base_url('assets/css/cssreset.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/index.css') ?>">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Montserrat:wght@700&display=swap" rel="stylesheet"> 
+    <link href="//fonts.googleapis.com/css2?family=Poppins&family=Montserrat:wght@700&display=swap" rel="stylesheet"> 
 
     <title>Cari Anime</title>
 </head>
@@ -25,7 +25,7 @@
     <div class="search-bar-result"></div>
 </body>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="//code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src="<?= base_url('assets/js/index.js') ?>"></script>
 
 </html>
