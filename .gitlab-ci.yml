@@ -4,9 +4,8 @@ stages:
 deploy:
   image: ruby:latest
   stage: deploy
-  before_script:
-    - composer install
   script:
+    - composer install
     - gem install dpl
     - dpl --provider=heroku --app=$HEROKU_APP_NAME --api-key=$HEROKU_API_KEY
   only:
